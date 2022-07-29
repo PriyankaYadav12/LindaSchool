@@ -67,7 +67,7 @@
 
 	<build>
 		
-		 <finalName>LindaSchool<finalName>
+		 <finalName>LindaSchool</finalName>
 
 		<plugins>
 			<plugin>
