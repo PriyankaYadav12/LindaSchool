@@ -18,8 +18,6 @@
 		<java.version>11</java.version>
 		<junit.jupiter.version>5.4.0</junit.jupiter.version>
 		
-		<finalName>LindaSchool<finalName>
-
 
 	</properties>
 	<dependencies>
@@ -68,6 +66,9 @@
 	</dependencies>
 
 	<build>
+		
+		 <finalName>LindaSchool<finalName>
+
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
